@@ -1,0 +1,7 @@
+/Users/matheuscantarutti/Desktop/Estudos/Projetos/JAVA/libraryapi/src/main/java/io/cantaruttim/libraryapi/LibraryapiApplication.java
+/Users/matheuscantarutti/Desktop/Estudos/Projetos/JAVA/libraryapi/src/main/java/io/cantaruttim/libraryapi/config/DataSourceConfiguration.java
+/Users/matheuscantarutti/Desktop/Estudos/Projetos/JAVA/libraryapi/src/main/java/io/cantaruttim/libraryapi/model/Author.java
+/Users/matheuscantarutti/Desktop/Estudos/Projetos/JAVA/libraryapi/src/main/java/io/cantaruttim/libraryapi/model/Books.java
+/Users/matheuscantarutti/Desktop/Estudos/Projetos/JAVA/libraryapi/src/main/java/io/cantaruttim/libraryapi/model/Books_Enum.java
+/Users/matheuscantarutti/Desktop/Estudos/Projetos/JAVA/libraryapi/src/main/java/io/cantaruttim/libraryapi/repository/AuthorRepository.java
+/Users/matheuscantarutti/Desktop/Estudos/Projetos/JAVA/libraryapi/src/main/java/io/cantaruttim/libraryapi/repository/BooksRepository.java
